@@ -1,0 +1,24 @@
+{
+  "name": "snabbdom-demo",
+  "version": "1.0.0",
+  "description": "snabbdom virtual DOM",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fitz-Wen/snabbdom-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fitz-Wen/snabbdom-demo/issues"
+  },
+  "homepage": "https://github.com/Fitz-Wen/snabbdom-demo#readme",
+  "dependencies": {
+    "snabbdom": "1.0.1"
+  }
+}
